@@ -4,7 +4,7 @@
 	"version": "0.0.0",
 	"main": "main.js",
 	"dependencies": {
-		"electron": "^9.0.5",
+		"electron": "^9.4.0",
 		"resx": "^2.0.3",
 		"xlsx": "*"
 	},
